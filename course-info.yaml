@@ -9,5 +9,6 @@ summary: Having the option to read online documentation or find something on the
   be fun!<br/><br/>Learn more at <a href="https://hyperskill.org">https://hyperskill.org/projects/79</a>
 programming_language: Python
 content:
+- Text-Based Browser
 - Problems
 mode: Study
