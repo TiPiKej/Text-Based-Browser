@@ -37,8 +37,9 @@ Twitter and Square Chief Executive Officer Jack Dorsey
 # write your code here
 
 user_choice = input()
-while user_choice is not "exit":
+while user_choice != "exit":
     if user_choice == "bloomberg.com":
         print(bloomberg_com)
     else:
         print(nytimes_com)
+    user_choice = input()
