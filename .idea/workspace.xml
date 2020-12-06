@@ -20,34 +20,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="366b7dc3-edcc-4b6a-b976-2eaa225490f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Problems/Call me by my name/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Call me by my name/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Call me by my name/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Call me by my name/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Double greeting/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Double greeting/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Double greeting/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Double greeting/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Errors in lists/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Errors in lists/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Errors in lists/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Errors in lists/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Merging lists/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Merging lists/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Merging lists/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Merging lists/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Misfortune/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Misfortune/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Misfortune/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Misfortune/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Sum of numbers/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Sum of numbers/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Sum of numbers/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Sum of numbers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Poster artist/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Poster artist/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Poster artist/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Poster artist/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Preprocessing/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Preprocessing/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Preprocessing/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Preprocessing/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Spellchecker/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Spellchecker/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Spellchecker/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Spellchecker/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Triangle/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Triangle/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Triangle/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Triangle/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/What day is it/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/What day is it/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/What day is it/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/What day is it/task.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Problems/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/lesson-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/snake_case/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/snake_case/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/snake_case/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/snake_case/task.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
